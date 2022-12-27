@@ -31,6 +31,11 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+*Some instrustions of finding the secret key from the css and html files were a bit confusing.
+*Displaying the walkthrough gif in github took a bit of time.
+*Using the stat-card css rule , I could not adjust the images with in the block of the card so I had to add some css rule if that is okay
+
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
