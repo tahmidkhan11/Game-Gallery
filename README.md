@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='"./assets/cube_monster.png"' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](web102_gif_1)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
