@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-![](web102_gif_1)
+![](web102_gif_01.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
